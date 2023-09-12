@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @ariel11212321
-- 👀 I’m interested in ... c/c++ , rust, java, c#, js, py, go. 
-- projects i made: websites, games, applications, web apps, desktop apps, and more....
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
