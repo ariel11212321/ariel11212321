@@ -43,19 +43,10 @@ I'm a passionate developer with a love for creating innovative solutions. My jou
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariel11212321&theme=radical" alt="GitHub Streak" />
 </p>
 
-## 🌟 Featured Projects
-
-Here are some of my projects you might find interesting:
-
-1. [Collaborative-IDE](https://github.com/ariel11212321/Collaborative-IDE) - A real-time collaborative integrated development environment
-2. [Rust-Blockchain](https://github.com/ariel11212321/Rust-Blockchain) - A blockchain implementation in Rust
-3. [Rust-Compiler](https://github.com/ariel11212321/Rust-Compiler) - A compiler project written in Rust
-
-👨‍💻 All of my projects are available [here](https://github.com/ariel11212321?tab=repositories)
 
 ## 📄 My Experiences
 
-- Proficient in Node.js, Java, JavaScript, C/C++, and Rust
+- Proficient in Node.js, Java, JavaScript, C/C++, php, And Rust.
 - Experienced in full-stack web development
 - Skilled in building blockchain applications
 - Knowledgeable in compiler design and implementation
