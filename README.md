@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Developer from Israel 🇮🇱</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Always+learning+new+things&center=true&width=380&height=45">
 </p>
 
 ## 🚀 About Me
